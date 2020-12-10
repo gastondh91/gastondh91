@@ -1,5 +1,4 @@
-### Hi there, I'm Gastón d'Hiriart 👋
---
+## Hi there, I'm Gastón d'Hiriart 👋
 
 - :computer: I'm a Full Stack developer
 - :house_with_garden: I'm from Tucumán, Argentina
