@@ -1,6 +1,5 @@
 ### Hi there, I'm Gastón d'Hiriart 👋
 
-Here are some ideas to get you started:
 
 - :computer: I'm a Full Stack developer
 - :house_with_garden: I'm from Tucumán, Argentina
