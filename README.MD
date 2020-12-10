@@ -1,6 +1,4 @@
-```
 ### Hi there, I'm Gastón d'Hiriart 👋
-```
 ---
 
 - :computer: I'm a Full Stack developer
