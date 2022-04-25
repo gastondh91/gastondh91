@@ -1,6 +1,6 @@
 ## Hi, I'm Gastón d'Hiriart 👋
 
-- :desktop_computer: I'm a Full Stack developer
+- :desktop_computer: I'm a Full Stack developer since 2019
 - :earth_americas: I'm from Tucumán, Argentina
 - :mailbox: You can reach me on [Instagram](https://www.instagram.com/gastondh91/), [LinkedIn](https://www.linkedin.com/in/gastondh91/) or sending an email to <gastondh91@gmail.com>
 
